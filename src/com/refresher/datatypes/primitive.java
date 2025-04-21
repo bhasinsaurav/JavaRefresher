@@ -36,6 +36,6 @@ public class primitive {
 
         // There is also a concept of widening conversion or implicit conversion in which , low value could be converted to other datatype with high or equal container size
         // Opposite of widening conversion is narrowing conversion or explicit conversion in which we have to explicitly tell the system to convert to other datatype regardless of the loss.
-         
+
     }
 }
