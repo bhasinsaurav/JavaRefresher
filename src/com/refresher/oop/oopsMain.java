@@ -25,7 +25,7 @@ public class oopsMain {
     // BY INTERFACE WE CAN ACHIEVE ABSTRACTION AND MULTIPLE INHERITANCE
     // WE CAN DEFINE STATIC CONSTANTS , FINAL CONSTANTS, STATIC METHODS, ABSTRACT METHODS, DEFAULT METHODS IN INTERFACE
     // DEFAULT METHODS CAN BE OVERRIDEN BUT STATIC METHODS CAN'T BE OVERRIDEN
-    //Abstraction and Runtime Polymorphism example
+     //Abstraction and Runtime Polymorphism example
     public static void main(String[] args) {
         Animal animal1 = new dog();
         Animal animal2 = new cat();
